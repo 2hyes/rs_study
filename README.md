@@ -48,15 +48,15 @@ Recommender Systems study
 | CHAPTER                                                                                      | PAGE        | WEEK    | PRESENTER        |
 |----------------------------------------------------------------------------------------------|:-----------:|:-------:|:----------------:|
 | <span style="color:darkblue">Introduction</span> :blue_book:                                 |  p1 - p28   | **1주** |                  |
-| <span style="color:darkblue">Neighborhood-Based Collaborative Filtering</span> :blue_book:   |  p29 - p69  | **2주** | 이마태, 장영준님 |
-| <span style="color:darkblue">Model-Based Collaborative Filtering</span> :blue_book:          | p71 - p136  | **3주** | 이혜승, 이명학님 |
-| <span style="color:darkblue">Content-Based Recommender Systems</span> :blue_book:            | p139 - p165 | **4주** | 이마태, 장영준님 |
+| <span style="color:darkblue">Neighborhood-Based Collaborative Filtering</span> :blue_book:   |  p29 - p69  | **2주** | [이마태](https://github.com/2hyes/rs_study/blob/master/slides/ch2_neighborhood_based_collaborative_filtering.pdf), [장영준님](https://github.com/2hyes/rs_study/blob/master/slides/ch2_neighborhood_based_collaborative_filtering.pdf) |
+| <span style="color:darkblue">Model-Based Collaborative Filtering</span> :blue_book:          | p71 - p136  | **3주** | [이혜승](https://github.com/2hyes/rs_study/blob/master/slides/ch3_model_based_collaborative_filtering1.pdf), [이명학님](https://github.com/2hyes/rs_study/blob/master/slides/ch3_model_based_collaborative_filtering.pdf) |
+| <span style="color:darkblue">Content-Based Recommender Systems</span> :blue_book:            | p139 - p165 | **4주** | [이마태](https://github.com/2hyes/rs_study/blob/master/slides/ch4_content_based_recommender_systems.pdf), 장영준님 |
 | <span style="color:darkblue">Knowledge-Based Recommender Systems</span> :blue_book:          | p167 - p197 | **5주** | 강병하, 이명학님 |
 | Ensemble-Based and Hybrid Recommender Systems                                                | p199 - p224 |         |                  |
 | Evaluating Recommender Systems                                                               | p225 - p254 |         |                  |
 | Context-Sensitive Recommender Systems                                                        | p255 - p281 |         |                  |
 | Time- and Location-Sensitive Recommender Systems                                             | p283 - p308 |         |                  |
-| <span style="color:darkblue">Structural Recommendations in Networks</span> :blue_book:       | p309 - p344 | **6주** | 이혜승, 이마태님 |
+| <span style="color:darkblue">Structural Recommendations in Networks</span> :blue_book:       | p309 - p344 | **6주** | [이혜승](https://github.com/2hyes/rs_study/blob/master/slides/ch10_Structural_Recommendation_in_Networks.pdf), [이마태님](https://github.com/2hyes/rs_study/blob/master/slides/ch10_Structural_Recommendation_in_Networks2.pdf) |
 | Social and Trust-Centric Recommender Systems                                                 | p345 - p384 |         |                  |
 | Attack-Resistant Recommender Systems                                                         | p385 - p410 |         |                  |
 | <span style="color:darkblue">Advanced Topics in Recommender Systems</span> :blue_book:       | p411 - p446 | **7주** | 김남균, 장영준님 |
